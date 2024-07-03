@@ -5,3 +5,21 @@ The IBM Cybersecurity Analyst Professional Certificate consists of 8 online cour
 This repository contains select course content, relevant notes, bits of code, final projects, quiz grades, and proof of certification for each course.
 
 **Additional Info:** *Please scroll down to view the employer-recognized Cybersecurity Analyst Professional Certificate from IBM and verification link.*
+# Completed Courses and Certificates:
+- **Course 1:**
+- **Course 2:**
+- **Course 3:**
+- **Course 4:**
+- **Course 5:**
+- **Course 6:**
+- **Course 7:**
+- **Course 8:**
+## Tools for Cybersecurity Analyst
+- Wireshark
+- IBM QRadar
+- IBM MaaS360
+- IBM Guardium
+- IBM Resilient
+- i2 Enterprise Insight Analysis
+## Libraries for Cybersecurity Analyst
+- Python
