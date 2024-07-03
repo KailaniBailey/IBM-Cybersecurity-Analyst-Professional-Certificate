@@ -1,1 +1,1 @@
-# IBM-Cybersecurity-Analyst-Professional-Certificate
+# IBM Cybersecurity Analyst Professional Certificate
