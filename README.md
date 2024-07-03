@@ -6,14 +6,14 @@ This repository contains select course content, relevant notes, bits of code, fi
 
 **Additional Info:** *Please scroll down to view the employer-recognized Cybersecurity Analyst Professional Certificate from IBM and verification link.*
 # Completed Courses and Certificates:
-- **Course 1:**
-- **Course 2:**
-- **Course 3:**
-- **Course 4:**
-- **Course 5:**
-- **Course 6:**
-- **Course 7:**
-- **Course 8:**
+- **Course 1:** Introduction to Cybersecurity Tools & Cyberattacks
+- **Course 2:** Cybersecurity Roles, Processes & Operating System Security
+- **Course 3:** Cybersecurity Compliance Framework & System Administration
+- **Course 4:** Network Security & Database Vulnerabilities
+- **Course 5:** Penetration Testing, Incident Response and Forensics
+- **Course 6:** Cyber Threat Intelligence
+- **Course 7:** Cybersecurity Capston: Breach Response Case Studies
+- **Course 8:** IBM Cybersecurity Analyst Assessment
 ## Tools for Cybersecurity Analyst
 - Wireshark
 - IBM QRadar
