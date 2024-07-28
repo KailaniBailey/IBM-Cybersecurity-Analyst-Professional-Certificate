@@ -6,7 +6,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 
 **Additional Info:** *Please scroll down to view the employer-recognized Cybersecurity Analyst Professional Certificate from IBM and verification link.*
 # Completed Courses and Certificates:
-- **Course 1:** Introduction to Cybersecurity Tools & Cyberattacks
+- **Course 1:** [Introduction to Cybersecurity Tools & Cyberattacks](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks)
 - **Course 2:** Cybersecurity Roles, Processes & Operating System Security
 - **Course 3:** Cybersecurity Compliance Framework & System Administration
 - **Course 4:** Network Security & Database Vulnerabilities
