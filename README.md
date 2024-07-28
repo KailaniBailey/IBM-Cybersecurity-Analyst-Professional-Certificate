@@ -13,7 +13,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 5:** [Penetration Testing, Incident Response and Forensics](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%205:%20Penetration%20Testing,%20Incident%20Response%20and%20Forensics)
 - **Course 6:** [Cyber Threat Intelligence](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%206:%20Cyber%20Threat%20Intelligence)
 - **Course 7:** [Cybersecurity Capstone: Breach Response Case Studies](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%207:%20Cybersecurity%20Capstone:%20Breach%20Response%20Case%20Studies)
-- **Course 8:** IBM Cybersecurity Analyst Assessment
+- **Course 8:** [IBM Cybersecurity Analyst Assessment](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%208:%20IBM%20Cybersecurity%20Analyst%20Assessment)
 ## Tools for Cybersecurity Analyst
 - Wireshark
 - IBM QRadar
