@@ -10,7 +10,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 2:** [Cybersecurity Roles, Processes & Operating System Security](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%202:%20Cybersecurity%20Roles,%20Processes%20&%20Operating%20System%20Security)
 - **Course 3:** [Cybersecurity Compliance Framework & System Administration](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%203:%20Cybersecurity%20Compliance%20Framework%20&%20System%20Administration)
 - **Course 4:** [Network Security & Database Vulnerabilities](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%204:%20Network%20Security%20&%20Database%20Vulnerabilities)
-- **Course 5:** Penetration Testing, Incident Response and Forensics
+- **Course 5:** [Penetration Testing, Incident Response and Forensics](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%205:%20Penetration%20Testing,%20Incident%20Response%20and%20Forensics)
 - **Course 6:** Cyber Threat Intelligence
 - **Course 7:** Cybersecurity Capston: Breach Response Case Studies
 - **Course 8:** IBM Cybersecurity Analyst Assessment
