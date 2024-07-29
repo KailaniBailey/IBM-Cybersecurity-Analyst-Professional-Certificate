@@ -25,3 +25,6 @@
 - Activity: Would You Rather?
 - **Practice Quiz:** Critical Thinking
 ## Module 1 Summary, Graded Quiz, and Glossary
+- Module 1 Summary: Cybersecurity Insights
+- **Graded Quiz:** Cybersecurity Insights
+- Module 1 Glossary: Cybersecurity Insights
