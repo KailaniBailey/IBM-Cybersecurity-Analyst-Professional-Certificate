@@ -16,7 +16,7 @@ Course 1 of 8 in the IBM Cybersecurity Analyst Professional Certificate
 - **Week 2:** [Cybersecurity Threats](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks/Week%202:%20Cybersecurity%20Threats)
 - **Week 3:** [Cybersecurity Controls](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks/Week%203:%20Cybersecurity%20Controls)
 - **Week 4:** [Identity and Physical Controls](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks/Week%204:%20Identity%20and%20Physical%20Controls)
-- **Week 5:** Final Project and Course Wrap-Up
+- **Week 5:** [Final Project and Course Wrap-Up](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks/Week%205:%20Final%20Project%20and%20Course%20Wrap-Up)
 ## Summary of Tasks
 - How to apply key cybersecurity concepts, tools, and methodologies to protect digital and physical assets
 - To identify various internet security threats and common cybersecurity best practices
