@@ -12,7 +12,7 @@ Course 1 of 8 in the IBM Cybersecurity Analyst Professional Certificate
 > This course is for anyone who wants a basic understanding of cybersecurity and is part of a series designed to help you start a career as a Cybersecurity Analyst.
 
 ## Syllabus for Course 1
-- **Week 1:** Cybersecurity Insights
+- **Week 1:** [Cybersecurity Insights](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks/Week%201:%20Cybersecurity%20Insights)
 - **Week 2:** Cybersecurity Threats
 - **Week 3:** Cybersecurity Controls
 - **Week 4:** Identity and Physical Controls
