@@ -19,4 +19,9 @@
 - Reading: The History of Cybersecurity
 - **Practice Quiz:** History of Cybersecurity
 ## Critical Thinking
+- Critical Thinking in Cybersecurity
+- Critical Thinking Model
+- Critical Thinking: 5 Key Skills
+- Activity: Would You Rather?
+- **Practice Quiz:** Critical Thinking
 ## Module 1 Summary, Graded Quiz, and Glossary
