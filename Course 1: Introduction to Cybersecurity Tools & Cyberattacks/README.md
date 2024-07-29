@@ -18,7 +18,14 @@ Course 1 of 8 in the IBM Cybersecurity Analyst Professional Certificate
 - **Week 4:** Identity and Physical Controls
 - **Week 5:** Final Project and Course Wrap-Up
 ## Summary of Tasks
+- How to apply key cybersecurity concepts, tools, and methodologies to protect digital and physical assets
+- To identify various internet security threats and common cybersecurity best practices
+- How to recognize various types of threat actors and malware and explore preventive measures
+- To understand authentication and identity management concepts for safeguarding your organization
 ## Skills Developed
+- Cybersecurity Threats
+- Cybersecurity Controls
+- Physical Threats and Controls
 # Course 1 Completion Certificate:
 **Additional Info:** Please [click here] to verify the IBM certificate. <Br>
 ... *Coming Soon*...
