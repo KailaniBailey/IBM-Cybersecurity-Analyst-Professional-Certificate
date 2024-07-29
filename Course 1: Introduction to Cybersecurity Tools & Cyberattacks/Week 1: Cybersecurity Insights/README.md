@@ -8,6 +8,15 @@
 - Describe the five key elements of the critical thinking model and their significance to cybersecurity professionals.
 - Identify the five essential critical thinking skills foundational to all professional domains.
 ## Welcome to the Course
+- Course Introduction
+- Course Overview
+- Helpful Tips for Course Completion
+- Introduce Yourself
 ## History of Cybersecurity
+- The Impact of the WarGames Movie on Cybersecurity
+- The Impact of 9/11 on Cybersecurity
+- The Impact of COVID-19 on Cybersecurity
+- Reading: The History of Cybersecurity
+- **Practice Quiz:** History of Cybersecurity
 ## Critical Thinking
 ## Module 1 Summary, Graded Quiz, and Glossary
