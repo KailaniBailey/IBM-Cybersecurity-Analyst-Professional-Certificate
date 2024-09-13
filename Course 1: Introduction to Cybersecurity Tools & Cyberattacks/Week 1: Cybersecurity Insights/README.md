@@ -16,7 +16,7 @@
 - The Impact of the WarGames Movie on Cybersecurity
 - The Impact of 9/11 on Cybersecurity
 - The Impact of COVID-19 on Cybersecurity
-- Reading: The History of Cybersecurity
+- Reading: [The History of Cybersecurity](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks/Week%201:%20Cybersecurity%20Insights/Reading:%20The%20History%20of%20Cybersecurity)
 - **Practice Quiz:** History of Cybersecurity
 ## Critical Thinking
 - Critical Thinking in Cybersecurity
