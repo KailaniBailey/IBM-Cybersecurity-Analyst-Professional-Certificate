@@ -25,6 +25,6 @@
 - Activity: Would You Rather?
 - **Practice Quiz:** Critical Thinking
 ## Module 1 Summary, Graded Quiz, and Glossary
-- Module 1 Summary: Cybersecurity Insights
+- Module 1 Summary: [Cybersecurity Insights](https://github.com/KailaniBailey/IBM-Cybersecurity-Analyst-Professional-Certificate/tree/main/Course%201:%20Introduction%20to%20Cybersecurity%20Tools%20&%20Cyberattacks/Week%201:%20Cybersecurity%20Insights/Module%201%20Summary:%20Cybersecurity%20Insights)
 - **Graded Quiz:** Cybersecurity Insights
 - Module 1 Glossary: Cybersecurity Insights
