@@ -17,7 +17,7 @@
 - The Impact of 9/11 on Cybersecurity
 - The Impact of COVID-19 on Cybersecurity
 - Reading: The History of Cybersecurity
-- **Practice Quiz:** History of Cybersecurity
+- **Practice Quiz:** History of Cybersecurity (100%)
 ## Critical Thinking
 - Critical Thinking in Cybersecurity
 - Critical Thinking Model
