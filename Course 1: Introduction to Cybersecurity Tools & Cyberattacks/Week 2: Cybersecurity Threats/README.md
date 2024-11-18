@@ -10,6 +10,11 @@
 - Examine and differentiate between phishing, vishing, and smishing techniques.
 - Identify the best ways to protect yourself and your organization from AI-based phishing attacks.
 ## Types of Actors and Their Motives
+- Types of Actors and Their Motives
+- Reading: Insider Attacks
+- Cybersecurity Trends
+- Activity: Explore the IBM X-Force Threat Intelligence Index
+- **Practice Assignment:** Practice Quiz: Types of Actors and Their Motives
 ## Malware and Ransomware
 ## Social Engineering
 ## Module 2 Summary, Graded Quiz, and Glossary
