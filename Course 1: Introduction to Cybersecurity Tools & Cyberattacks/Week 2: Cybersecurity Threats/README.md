@@ -16,5 +16,12 @@
 - Activity: Explore the IBM X-Force Threat Intelligence Index
 - **Practice Assignment:** Practice Quiz: Types of Actors and Their Motives
 ## Malware and Ransomware
+- What is Malware? Let's Hear the Hacker's Viewpoint
+- What is Ransomware?
+- Reading: Malware Types
+- How to Prevent Malware Attacks
+- Reading: Malware Detection with Rootkit Hunters
+- [Optional] **Hands-on Lab:** Malware Scan Using Rkhunter
+- **Practice Assignment:** Practice Quiz: Malware and Ransomware
 ## Social Engineering
 ## Module 2 Summary, Graded Quiz, and Glossary
